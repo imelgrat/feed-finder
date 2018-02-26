@@ -3,7 +3,7 @@ FeedFinder
 
 [![GitHub license](https://img.shields.io/github/license/imelgrat/feed-finder.svg?style=flat-square)](https://github.com/imelgrat/feed-finder/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/imelgrat/feed-finder.svg?style=flat-square)](https://github.com/imelgrat/feed-finder/releases)
-[![Total Downloads](https://poser.pugx.org/imelgrat/feed-finder/downloads)](https://packagist.org/packages/imelgrat/feed-finder)
+[![Total Downloads](https://poser.pugx.org/imelgrat/feed-finder/downloads?format=flat-square)](https://packagist.org/packages/imelgrat/feed-finder)
 [![GitHub issues](https://img.shields.io/github/issues/imelgrat/feed-finder.svg?style=flat-square)](https://github.com/imelgrat/feed-finder/issues)
 [![GitHub stars](https://img.shields.io/github/stars/imelgrat/feed-finder.svg?style=flat-square)](https://github.com/imelgrat/feed-finder/stargazers)
 
