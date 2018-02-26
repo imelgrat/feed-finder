@@ -1,0 +1,29 @@
+{
+    "name": "imelgrat/feed-finder",
+    "type": "library",
+    "version" : "v2.0",
+    "description": "A PHP class for extracting the URLs of RSS (1.0 and 2.0) and ATOM feeds associated to a page, as well as OPML outline documents.",
+    "keywords": ["php", "rss", "rss feeds", "atom feeds", "atom", "opml", "html parser", "parser", "regular expression", "regex"],
+    "homepage": "https://github.com/imelgrat/feed-finder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Melgrati",
+            "homepage": "http://imelgrat.me",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "*"
+    }
+}
