@@ -3,7 +3,7 @@
     "type": "library",
     "version" : "v2.0",
     "description": "A PHP class for extracting the URLs of RSS (1.0 and 2.0) and ATOM feeds associated to a page, as well as OPML outline documents.",
-    "keywords": ["php", "rss", "rss feeds", "atom feeds", "atom", "opml", "html parser", "parser", "regular expression", "regex"],
+    "keywords": ["php","rss","rss feed","atom","atom feed","html parser","opml","opml outline","regular expression","regex","composer package","rss feed scraper","html scraper"],
     "homepage": "https://github.com/imelgrat/feed-finder",
     "license": "MIT",
     "authors": [
