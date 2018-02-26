@@ -40,8 +40,7 @@ be found over at [Packagist](http://packagist.org).
 
 1.  Copy `src/feed-finder.php` to your codebase, perhaps to the `vendor`
     directory.
-2.  Add the `FeedFinder` class to your autoloader or `require` the file
-    directly.
+2.  Add the `FeedFinder` class to your autoloader or `require` the file directly.
 
 Feedback
 --------
