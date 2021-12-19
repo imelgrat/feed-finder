@@ -366,7 +366,7 @@
 											$full_url .= ":$url_parts[port]";
 										}
 
-										if ($href{0} != '/')
+										if ($href[0] != '/')
 										{
 											// It's a relative link on the domain
 											$full_url .= dirname($url_parts['path']);
